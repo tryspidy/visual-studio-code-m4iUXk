@@ -1,0 +1,5 @@
+Useful/good extentions:
+Prettier Code formatter - https://github.com/prettier/prettier-vscode
+TabNine - https://github.com/codota/tabnine-vscode
+vscode-icons - https://github.com/vscode-icons/vscode-icons
+npm - https://github.com/Microsoft/vscode-npm-scripts
